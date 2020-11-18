@@ -2,7 +2,7 @@
 
 This repository contains the analysis and experiments, which accompany the TüEyeQ data set and paper (links will be provided soon).
 
-All experiments are provided in the Jupyter notebook ``analysis.ipynb``. To reproduce the plots and tables shown in the paper, one needs to load the TüEyeQ data set and run all cells of the notebook.
+All experiments are provided in the Jupyter notebook ``analysis.ipynb``. To reproduce the plots and tables shown in the paper, please download both the TüEyeQ data set and notebook and run all cells.
 For further information about the experiment's structure, please refer to the comments of the Jupyter notebook and the corresponding paper.
 
 Pre-computed Distance Correlation scores can can be loaded from ``/pre-computed``.
